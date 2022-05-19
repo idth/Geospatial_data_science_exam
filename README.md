@@ -1,14 +1,11 @@
-# GoDate
-Geospatial Data Science Exam
+# Geospatial Data Science Exam: GoDate
+By Nina Sand Horup (nsho@itu.dk) and Ida Thrane (idth@itu.dk)
 
 ## Coding guide
 
 The following section describes how to run the .ipynb-notebooks in order to make the application work. 
 
-### Folders:
-
-**data**: All data generated and used in the application can be found in the "data"-folder.
-**plots**: Visualisations
+---------------------------------------
 
 ### Notebooks:
 
@@ -25,6 +22,11 @@ is already in the data-folder.
 is already in the data-folder.
 
 ---------------------------------------
+
+### Data:
+
+**data**: All data generated and used in the application can be found in the "data"-folder.
+**plots**: Visualisations
 
 
 
