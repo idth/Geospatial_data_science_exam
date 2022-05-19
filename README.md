@@ -25,8 +25,9 @@ is already in the data-folder.
 
 ### Data:
 
-**data**: All data generated and used in the application can be found in the "data"-folder.
-**plots**: Visualisations
+**data/**: All data generated and used in the application can be found in the "data"-folder.
+
+**plots/**: Visualisations
 
 
 
