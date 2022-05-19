@@ -15,11 +15,11 @@ The following section describes how to run the .ipynb-notebooks in order to make
 
 Notebooks that do not need to be run. Optionally, they can all be run again if interested:
 
-**data_acquisition.ipynb**: This notebook acquires the data from Open Street Map using OSMnx. It does not need to be run because the data
-is already in the data-folder.
+**data_acquisition.ipynb**: This notebook is optional to run. It acquires the data from Open Street Map using OSMnx. The data it produces can be found in the data-folder.
 
-**data_preprocessing.ipynb**: This notebook preprocesses the data achieved from data_acquisition.ipynb. It does not need to be run because the data
-is already in the data-folder.
+**data_preprocessing.ipynb**: This notebook is optional to run. It preprocesses the data achieved from data_acquisition.ipynb. The data it produces can be found in the data-folder.
+
+**copenhagen_subset_visualizations.ipynb**: This notebook is optional to run. It includes visualisation from the Copenhagen subset data.
 
 ---------------------------------------
 
